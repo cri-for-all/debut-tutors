@@ -27,19 +27,19 @@ i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
 
 ## On the terminal of the computer
 
-7) """ Write the command to get the Python version you are using """
+8) """ Write the command to get the Python version you are using """
 
-8) """ What is the command line for changing the current folder/directory? """
+9) """ What is the command line for changing the current folder/directory? """
 
-9) """ What is the command line for listing the contents of the current folder/directory? """
+10) """ What is the command line for listing the contents of the current folder/directory? """
 
-10) """ What is the command line for creating a file? """
+11) """ What is the command line for creating a file? """
 
-11) """ What is the command line for creating a new folder/directory? """
+12) """ What is the command line for creating a new folder/directory? """
 
-12) """ What is the command line for deleting a folder/directory? """
+13) """ What is the command line for deleting a folder/directory? """
 
-13) """ What is the command line for deleting a file? """
+14) """ What is the command line for deleting a file? """
 
 
 ## Don't forget, perseverance is really important when it doesn't work, but never hesitate to ask for a hint!!! 
