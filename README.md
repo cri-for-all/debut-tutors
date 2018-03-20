@@ -15,24 +15,15 @@
 6) Create a boucle "if" that returns "That's true!" when the operation is correct, and else return "try again!" (use ==, !=, <=, >=)  
 
 7) I have those 9 variables. What is the type of each one? Write it in a comment next to the variables!
-
-a = 5
-
-b = "GitHub"
-
-c = 7.5
-
-d = "j"
-
-e = -10
-
-f = -10.0
-
-g = ('GitHub', 10, 'j', 25.4)
-
-h = ['GitHub', 10, 'j', 25.4]
-
-i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
+    a = 5
+    b = "GitHub"
+    c = 7.5
+    d = "j"
+    e = -10
+    f = -10.0
+    g = ('GitHub', 10, 'j', 25.4)
+    h = ['GitHub', 10, 'j', 25.4]
+    i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
 
 ## On the terminal of the computer
 
