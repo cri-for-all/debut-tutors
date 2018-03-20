@@ -15,31 +15,31 @@
 6) """ Create a boucle "if" that returns "That's true!" when the operation is correct, and else return "try again!" (use ==, !=, <=, >=) """ 
 
 7) """ I have those 9 variables. What is the type of each one? Write it in a comment next to the variables!"""
-a = 5
-b = "GitHub"
-c = 7.5
-d = "j"
-e = -10
-f = -10.0
-g = ('GitHub', 10, 'j', 25.4)
-h = ['GitHub', 10, 'j', 25.4]
-i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
+a = 5 \n
+b = "GitHub" \n
+c = 7.5 \n
+d = "j" \n
+e = -10 \n
+f = -10.0 \n
+g = ('GitHub', 10, 'j', 25.4) \n
+h = ['GitHub', 10, 'j', 25.4] \n
+i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34} \n
 
 ## On the terminal of the computer
 
-7) """ Write the command to get the Python version you are using """
+8) """ Write the command to get the Python version you are using """
 
-8) """ What is the command line for changing the current folder/directory? """
+9) """ What is the command line for changing the current folder/directory? """
 
-9) """ What is the command line for listing the contents of the current folder/directory? """
+10) """ What is the command line for listing the contents of the current folder/directory? """
 
-10) """ What is the command line for creating a file? """
+11) """ What is the command line for creating a file? """
 
-11) """ What is the command line for creating a new folder/directory? """
+12) """ What is the command line for creating a new folder/directory? """
 
-12) """ What is the command line for deleting a folder/directory? """
+13) """ What is the command line for deleting a folder/directory? """
 
-13) """ What is the command line for deleting a file? """
+14) """ What is the command line for deleting a file? """
 
 
 ## Don't forget, perseverance is really important when it doesn't work, but never hesitate to ask for a hint!!! 
