@@ -50,9 +50,15 @@
 
 14) What is the command line for deleting a file?
 
+15) With the appropriate command line, find the version of the computer's git.
+
+16) With the appropriate command line, change the name of the computer's git to "Admin" or whatever you want.
+
+17) Type "git --help" in the Terminal. What does it do?
+
 ## Finish early?
 
-15) If you finished early, try to write a script that will have a short conversation with the user. The script should be able to understand the following inputs:
+18) If you finished early, try to write a script that will have a short conversation with the user. The script should be able to understand the following inputs:
 
     "Hello"
 
