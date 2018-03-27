@@ -1,18 +1,19 @@
 # Exercises
 
 ## Practice with Python :
+For the below exercises, open up a new script in Sublime Text (make sure you set the language to "python" by saving the file with a ".py" extention). Then open a SublimeREPL for python by pressing [cmd] + [shift] + P and typing "SublimeREPL: Python". Then check that SendCode will send python statments to your SublimeREPL by pressing [cmd] + [shift] + P and typing "SendCode: Choose Program". When the list of optional programs appears, select "SublimeREPL". You can now send pieces of your code from your script directly to the REPL by highlighting the code and pressing [cmd] + [enter]. 
 
-1) In a file, create a variable a equal to a string (write what you want) and then print it
+1) Create a variable named x equal to a string (write what you want) and then print it
 
-2) Create a variable named b that is equal to a, and then print "I'm saying: " + variable b
+2) Create a variable named b that is equal to x (the variable created above), and then print "I'm saying: " + variable b
 
 3) Write a python program that ask the user for their name and height, and then print a sentence containing both details
 
-4) Write a Hello-World program and then add a part that asks the user to respond and the prints the user's answer
+4) Write a Hello-World program that prints "Hello world" and then asks the user to respond by asking "How would you like to respond?". Once the user responds, have the program print the user's answer.
 
-5) Create three int variables, and some float variables, and practise with different simple operations ( +, /, %, -, *,...)
+5) Create a few int variables and some float variables. Then practice with different simple operations ( +, /, %, -, *,...).
 
-6) I have these 9 variables. What is the type of each one? Write it in a comment next to the variables!
+6) I have these 9 variables. What is the type of each one? Write it in a comment next to the variables.
 
     a = 5
 
@@ -32,11 +33,12 @@
     
     i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
 
-7) Create an if-statement that tests if a variable, x, is even and prints the string "That's true!" if x is even, and "try again!" otherwise 
+7) Create an if-statement that tests if a variable, x, is even. It should print the string "That's true, x is even!" if x is even, and "Sorry, it looks like x is odd. Try again!" otherwise. Notice that you will have to declare the variable x first for the script to work.
 
 ## Practice with the Terminal : 
+For the next exercises, we are going to practice a bit with terminal commands. If you are on MacOS or linux, open a standard terminal. If you are on Windows, you will need to use a terminal emmulater like cmder.
 
-8) Write the command to get the Python version you are using
+8) What is the command that will return the git version you are using?
 
 9) What is the command line for changing the current folder/directory?
 
