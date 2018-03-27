@@ -56,6 +56,8 @@ Try to answer all the following questions in a single plain text file called "we
 
 14) What is the command line for deleting a file?
 
+15) Wath is the command line to find the version of the computer's git ?
+
 ## Finish early?
 
 15) If you finished early, try to write a script that will have a short conversation with the user. The script should be able to understand the following inputs:
