@@ -23,7 +23,7 @@ or that prints two times n if n is over 21.
 
 8) What is the difference between < and <= ? Between > and  >= ? Between = and != ?
 
-9) What is the difference between the operator / and % ? 
+9) What is the difference between the operator a/b and a%b ? (with a and b two numbers) 
 
 10) What is the difference between a = b and a == b?
 
