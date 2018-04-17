@@ -1,25 +1,24 @@
 # Exercises sheet n°2
-This sheet is organized by topic. Exercises go harder. You can jump from one topic to another as you want!
+This sheet is organized by topic. The exercises get harder as you go. You can jump from one topic to another as you want! Try to put all of your answers in a single file, "Solutions2.py" that you can push to your fork of the repository.
 
-## If/Else Loop
+## If/Else Statements
 
 1) Enumerate the 3 possible commands when using if/else Loop
 
-2) Write a code that print "Hello World" if x is smaller than 4 or else print "Goodbye".
-If you tried to run the code, it didn't work because "x is not defined"
-3) Now, make x equal to 3 at the beginning. Run your code and see what it prints.
-Try different values for x.
+2) Write a code that print "Hello World" if x is smaller than 4 and print "Goodbye" otherwise. Remember, you need to define x for your code to work. Try the code for a few different values of x to make sure it works correctly.
 
-4) Choose an int variable called n. Write a code that tell you if that integer is an even or an odd number at the end.
+3) Assign a variable x to be an integer. Write a code that will print "One" if x is 1, "A couple" if x is 2, "Several" if x is 3, 4, or 5, and print "Many!" if x is greater than 5. 
 
-5) Choose an int variable n. Write a code that prints the difference between 21 and n, if n is smaller or equal to 21,
+4) Make an int variable called n. Write a code that tell you if that integer is an even or an odd number.
+
+5) Make an int variable n. Write a code that prints the difference between 21 and n, if n is smaller or equal to 21,
 or that prints two times n if n is over 21.
 
 6) Same as code 5) but if n is over 21, print the absolute value of the difference between 21 and n.
 
 ## Operators
 
-7) What is the symbol for addition? Soustraction? Multiplication?
+7) What is the symbol for addition? Subtraction? Multiplication?
 
 8) What is the difference between < and <= ? Between > and  >= ? Between = and != ?
 
