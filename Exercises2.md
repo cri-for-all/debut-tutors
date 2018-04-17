@@ -30,3 +30,7 @@ or that prints two times n if n is over 21.
 11) Choose two numbers (integer or float) a and b.
 Write a code that print on different lines : Addition (a + b), soustraction, multiplication, division,
 modulus ( a%b if a is greater than b, else b%a)
+
+### Lists
+
+12) Create an empty list
