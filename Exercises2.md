@@ -33,4 +33,15 @@ modulus ( a%b if a is greater than b, else b%a)
 
 ### Lists
 
-12) Create an empty list
+12) Create an empty list called list
+
+13) Add the numbers 2 and 34 to this list 
+
+###Loops
+
+14) Create a loop that print the number from 1 to 20
+
+15) Let x be the number of fishes in a pond. At day 1, there are 45 fishes, and each day two more appear, and one is eaten. Create a while loop giving the day on which the fish's population get to reach 152 individuals.
+
+16) My cat has a kitten every year. She had two babies for the moment, one just a week ago.
+Create a loop that tell me in how many years she would have had 15 kittens. (tip : use a while loop)
