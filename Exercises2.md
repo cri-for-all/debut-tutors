@@ -32,7 +32,7 @@ modulus ( a%b if a is greater than b, else b%a)
 
 ### Lists
 
-12) Create an empty list called list
+12) Create an empty list called emptiness
 
 13) Add the numbers 2 and 34 to this list 
 
