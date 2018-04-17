@@ -3,7 +3,7 @@ This sheet is organized by topic. Exercises go harder. You can jump from one top
 
 ## If/Else Loop
 
-1) Enumerate the 3 possible command when using if/else Loop
+1) Enumerate the 3 possible commands when using if/else Loop
 
 2) Write a code that print "Hello World" if x is smaller than 4 or else print "Goodbye".
 If you tried to run the code, it didn't work because "x is not defined"
