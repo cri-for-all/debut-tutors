@@ -2,6 +2,7 @@
 This sheet is organized by topic. Exercises go harder. You can jump from one topic to another as you want!
 
 ## If/Else Loop
+
 1) Enumerate the 3 possible command when using if/else Loop
 
 2) Write a code that print "Hello World" if x is smaller than 4 or else print "Goodbye".
@@ -16,4 +17,8 @@ or that prints two times n if n is over 21.
 
 6) Same as code 5) but if n is over 21, print the absolute value of the difference between 21 and n.
 
-7)
+## Operators
+
+7) Choose two numbers (integer or float) a and b.
+Write a code that print on different lines : Addition (a + b), soustraction, multiplication, division,
+modulus ( a%b if a is greater than b, else b%a)
