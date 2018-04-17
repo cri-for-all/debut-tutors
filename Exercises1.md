@@ -3,7 +3,7 @@
 ## Practice with Python :
 For the below exercises, open up a new script in Sublime Text (make sure you set the language to "python" by saving the file with a ".py" extention). Then open a SublimeREPL for python by pressing [cmd] + [shift] + P and typing "SublimeREPL: Python". Then check that SendCode will send python statments to your SublimeREPL by pressing [cmd] + [shift] + P and typing "SendCode: Choose Program". When the list of optional programs appears, select "SublimeREPL". You can now send pieces of your code from your script directly to the REPL by highlighting the code and pressing [cmd] + [enter]. 
 
-Try to answer all the following questions in a single script called "week4_python_questions.py" and then commit that script to your fork of the class repository.
+Try to answer all the following questions in a single script called "Solutions1.py" and then commit that script to your fork of the class repository.
 
 1) Create a variable named x equal to a string (write what you want) and then print it
 
@@ -40,7 +40,7 @@ Try to answer all the following questions in a single script called "week4_pytho
 ## Practice with the Terminal : 
 For the next exercises, we are going to practice a bit with terminal commands. If you are on MacOS or linux, open a standard terminal. If you are on Windows, you will need to use a terminal emmulater like cmder.
 
-Try to answer all the following questions in a single plain text file called "week4_terminal_questions.txt" and then commit that file to your fork of the class repository.
+Try to answer all the following questions in a single plain text file called "Solutions1.txt" and then commit that file to your fork of the class repository.
 
 8) What is the command that will return the git version you are using?
 
