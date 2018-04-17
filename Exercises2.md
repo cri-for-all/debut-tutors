@@ -3,7 +3,7 @@ This sheet is organized by topic. The exercises get harder as you go. You can ju
 
 ## If/Else Statements
 
-1) Enumerate the 3 possible commands when using if/else Loop
+1) Enumerate the 3 possible commands when using if/else statement.
 
 2) Write a code that print "Hello World" if x is smaller than 4 and print "Goodbye" otherwise. Remember, you need to define x for your code to work. Try the code for a few different values of x to make sure it works correctly.
 
@@ -40,7 +40,8 @@ modulus ( a%b if a is greater than b, else b%a)
 
 14) Create a loop that print the number from 1 to 20
 
-15) Let x be the number of fishes in a pond. At day 1, there are 45 fishes, and each day two more appear, and one is eaten. Create a while loop giving the day on which the fish's population get to reach 152 individuals.
-
-16) My cat has a kitten every year. She had two babies for the moment, one just a week ago.
+15) My cat has a kitten every year. She had two babies for the moment, one just a week ago.
 Create a loop that tell me in how many years she would have had 15 kittens. (tip : use a while loop)
+
+16) Let x be the number of fishes in a pond. At the begining, day 1, there are 5 fish. Everyday each fish will have 2 babies but only 25% of the babies will survive to be adults. Also, every day 2 fish are eaten. Write a script using loops to figure out how many days it will take until there are 100 fish.
+
