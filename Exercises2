@@ -11,7 +11,9 @@ Try different values for x.
 
 4) Choose an int variable called n. Write a code that tell you if that integer is an even or an odd number at the end.
 
-5) Choose an int variable n. Write a code that returns (print) the difference between 21 and n, if n is smaller or equal to 21,
-or that returns two times n if n is over 21.
+5) Choose an int variable n. Write a code that prints the difference between 21 and n, if n is smaller or equal to 21,
+or that prints two times n if n is over 21.
 
-6) Same as code 5) but if n is over 21, return the absolute value of the difference between 21 and n.
+6) Same as code 5) but if n is over 21, print the absolute value of the difference between 21 and n.
+
+7)
