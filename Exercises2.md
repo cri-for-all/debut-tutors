@@ -37,7 +37,7 @@ modulus ( a%b if a is greater than b, else b%a)
 
 13) Add the numbers 2 and 34 to this list 
 
-###Loops
+### Loops
 
 14) Create a loop that print the number from 1 to 20
 
