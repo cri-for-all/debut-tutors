@@ -19,6 +19,13 @@ or that prints two times n if n is over 21.
 
 ## Operators
 
-7) Choose two numbers (integer or float) a and b.
+7) What is the symbol for addition? Soustraction? Multiplication?
+
+8) What is the difference between the operator / and % ? 
+
+9) What is the difference between a = b and a == b
+
+10) Choose two numbers (integer or float) a and b.
 Write a code that print on different lines : Addition (a + b), soustraction, multiplication, division,
 modulus ( a%b if a is greater than b, else b%a)
+
