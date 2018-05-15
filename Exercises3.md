@@ -1,8 +1,6 @@
 # Exercise Set 3: Pratice with Functions and Loops
 In this set of exercises we will focus on practicing making functions and using loops. You can write your solutions in a single file called `solutions3.py` and upload them to your fork of the repository.
 
----
-
 1. Write a python function to find the maximum of three numbers.
 
 2. Write a python funciton to check whether a number is in a given range.
