@@ -6,3 +6,5 @@ Current Assignments:
 * `Exercises1.md` - Introductory exercises for python and terminal (provided by Tutors)
 * `Exercises2.md` - Practice with if/else, operators, and lists (provided by Tutors)
 * `Exercises3.md` - Practie with functions and loops (provided by Andreea)
+
+You can find the **general class materials**, such as the .pdf files of documentation on the concepts covered in the class, on the [google drive](https://drive.google.com/drive/folders/1souxt-QXGAOexV6pa7DiKieTgnnsT1vw) for the class.
