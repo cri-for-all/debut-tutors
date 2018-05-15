@@ -55,11 +55,9 @@ Try to answer all the following questions in a single plain text file called "So
 
 16) If you finished early, try to write a script that will have a short conversation with the user. The script should be able to understand the following inputs:
 
-    "Hello"
-
-    "How are you?"
-
-    "What time is it?"
+* "Hello"
+* "How are you?"
+* "What time is it?"
 
     When the user gives an input, the script should read the string and then give an appropriate response. If you write         "Hello", the script would respond "Hello!". If you ask "What time is it?" the script should print the current time. If       you write "How are you?", try to have the script respond either "I am good." or "I am great", where the answer is           random. 
 
