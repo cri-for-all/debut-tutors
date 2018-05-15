@@ -1,5 +1,7 @@
-# Exercises sheet n°2
+# Exercise Set 2: If/Else Statements, Operators, and Lists
 This sheet is organized by topic. The exercises get harder as you go. You can jump from one topic to another as you want! Try to put all of your answers in a single file, "Solutions2.py" that you can push to your fork of the repository.
+
+---
 
 ## If/Else Statements
 
@@ -30,13 +32,13 @@ or that prints two times n if n is over 21.
 Write a code that print on different lines : Addition (a + b), soustraction, multiplication, division,
 modulus ( a%b if a is greater than b, else b%a)
 
-### Lists
+## Lists
 
 12) Create an empty list called emptiness
 
 13) Add the numbers 2 and 34 to this list 
 
-### Loops
+## Loops
 
 14) Make an empty list called x. Write a for loop that for 20 iterations will add a random number to the list and then print the list.
 
