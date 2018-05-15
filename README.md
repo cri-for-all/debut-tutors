@@ -8,4 +8,4 @@ Hello! Welcome to the exercise repository for the reStart python class. Here you
 * `Exercises3.md` - Practie with functions and loops (provided by Andreea)
 
 
-You can find the *general class materials*, such as the .pdf files of documentation on the concepts covered in the class, on the [google drive](https://drive.google.com/drive/folders/1souxt-QXGAOexV6pa7DiKieTgnnsT1vw) for the class. If you do not have access to the google drive, feel free to contact Catherine to get the permissions.
+You can find the *general class materials*, such as the .pdf files of documentation on the concepts covered in the class, on our [google drive](https://drive.google.com/drive/folders/1souxt-QXGAOexV6pa7DiKieTgnnsT1vw). If you do not have access to the google drive, feel free to contact Catherine to get the permissions.
