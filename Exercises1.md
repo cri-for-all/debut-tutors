@@ -5,7 +5,7 @@
 ## Practice with Python :
 For the below exercises, open up a new script in Sublime Text (make sure you set the language to "python" by saving the file with a ".py" extention). Then open a SublimeREPL for python by pressing [cmd] + [shift] + P and typing "SublimeREPL: Python". Then check that SendCode will send python statments to your SublimeREPL by pressing [cmd] + [shift] + P and typing "SendCode: Choose Program". When the list of optional programs appears, select "SublimeREPL". You can now send pieces of your code from your script directly to the REPL by highlighting the code and pressing [cmd] + [enter]. 
 
-Try to answer all the following questions in a single script called "Solutions1.py" and then commit that script to your fork of the class repository.
+Try to answer all the following questions in a single script called `solutions1.py` and then commit that script to your fork of the class repository.
 
 1) Create a variable named x equal to a string (write what you want) and then print it
 
@@ -17,24 +17,15 @@ Try to answer all the following questions in a single script called "Solutions1.
 
 5) Create a few int variables and some float variables. Then practice with different simple operations ( +, /, %, -, *,...).
 
-6) I have these 9 variables. What is the type of each one? Write it in a comment next to the variables.
-
-    a = 5
-
-    b = "GitHub"
-    
-    c = 7.5
-    
-    d = "j"
-    
-    e = -10
-    
-    f = -10.0
-    
-    g = ('GitHub', 10, 'j', 25.4)
-    
-    h = ['GitHub', 10, 'j', 25.4]
-    
+6) I have these 9 variables. What is the type of each one? Write it in a comment next to the variables.  
+    a = 5  
+    b = "GitHub"  
+    c = 7.5      
+    d = "j"      
+    e = -10      
+    f = -10.0      
+    g = ('GitHub', 10, 'j', 25.4)      
+    h = ['GitHub', 10, 'j', 25.4]      
     i = {'GitHub' : 10, 'j' : 25.4, 'john' : 'help', 100.0 : 34}
 
 7) Create an if-statement that tests if a variable, x, is even. It should print the string "That's true, x is even!" if x is even, and "Sorry, it looks like x is odd. Try again!" otherwise. Notice that you will have to declare the variable x first for the script to work.
