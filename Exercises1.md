@@ -1,7 +1,5 @@
 # Exercise Set 1: An Introduction to Python and Terminal
 
----
-
 ## Practice with Python :
 For the below exercises, open up a new script in Sublime Text (make sure you set the language to "python" by saving the file with a ".py" extention). Then open a SublimeREPL for python by pressing [cmd] + [shift] + P and typing "SublimeREPL: Python". Then check that SendCode will send python statments to your SublimeREPL by pressing [cmd] + [shift] + P and typing "SendCode: Choose Program". When the list of optional programs appears, select "SublimeREPL". You can now send pieces of your code from your script directly to the REPL by highlighting the code and pressing [cmd] + [enter]. 
 
