@@ -1,5 +1,5 @@
 # Exercise Set 2: If/Else Statements, Operators, and Lists
-This sheet is organized by topic. The exercises get harder as you go. You can jump from one topic to another as you want! Try to put all of your answers in a single file, "Solutions2.py" that you can push to your fork of the repository.
+This sheet is organized by topic. The exercises get harder as you go. You can jump from one topic to another as you want! Try to put all of your answers in a single file, `Solutions2.py` that you can push to your fork of the repository.
 
 ---
 
