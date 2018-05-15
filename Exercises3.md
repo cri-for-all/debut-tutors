@@ -58,9 +58,9 @@ In this set of exercises we will focus on practicing making functions and using 
 16. Write a python program to get the fibonacci series between 0 and 50 inclusive. Recall that the Fibonacci series begins with 0, 1, 1, 2, ... and that every number in the sequence is the sum of the two numbers that came before it (with the exception of the first two numbers).
 
 17. Write a python program that iterates over the integers from 1 to 50 inclusive. For multiples of three, print "Fizz". For multiples of 5 the program should print "Buzz". For numbers that are multiples of both three and five print "FizzBuzz". For numbers that are neither a multiple of 3 nor 5, print the number itself.  
+*Expected Result*:  
+1<br>2<br>Fizz<br>4<br>Buzz<br>...
 
-| *Expected Result* | 1<br>2<br>Fizz<br>4<br>Buzz<br>...|
-|---|---|
 
 18. Write a python program that takes two digits m (number of rows) and n (number of columns) as input and generates a two dimensional array (nested list). The element value in the ith row and jth column of the array should be i * j.  
     *Sample Input*:     m = 3, n = 4  
