@@ -33,7 +33,7 @@ Try to answer all the following questions in a single script called `solutions1.
 ## Practice with the Terminal : 
 For the next exercises, we are going to practice a bit with terminal commands. If you are on MacOS or linux, open a standard terminal. If you are on Windows, you will need to use a terminal emmulater like cmder.
 
-Try to answer all the following questions in a single plain text file called "Solutions1.txt" and then commit that file to your fork of the class repository.
+Try to answer all the following questions in a single plain text file called `solutions1.txt` and then commit that file to your fork of the class repository.
 
 8) What is the command that will return the git version you are using?
 
@@ -61,7 +61,7 @@ Try to answer all the following questions in a single plain text file called "So
 
     When the user gives an input, the script should read the string and then give an appropriate response. If you write         "Hello", the script would respond "Hello!". If you ask "What time is it?" the script should print the current time. If       you write "How are you?", try to have the script respond either "I am good." or "I am great", where the answer is           random. 
 
-    Save this script into a file called "week4_extra_question.py" and commit it to your fork.
+    Save this script into a file called `solutions1_extra.py` and commit it to your fork.
     
     Good luck!
     
